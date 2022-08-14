@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react'
 import './App.css'
 import CardResident from './components/CardResident'
 import Footer from './components/Footer'
-import LocationInfo from './components/LocatIonInfo'
+import LocationInfo from './components/LocationInfo'
 
 
 function App() {

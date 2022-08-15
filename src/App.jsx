@@ -54,7 +54,7 @@ const handdleSubmit = e => {
     <div className="App">
       <header className='mainHeader'>
       <h1>Rick and Morty</h1>
-      <img src='./public/img/Rick-And-Morty-PNG-Image.png' />
+      <img src='./img/Rick-And-Morty-PNG-Image.png' />
       </header>
     <div className="mainContainer">
 
